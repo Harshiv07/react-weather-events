@@ -1,0 +1,8 @@
+{
+    "appService.connections": [
+    
+    ],
+    "prettier.useTabs": true,
+    "editor.formatOnSave": true
+
+}
